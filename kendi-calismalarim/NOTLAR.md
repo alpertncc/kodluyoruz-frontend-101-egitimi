@@ -6,4 +6,5 @@
  * Listeler (Sıralı / Sırasız)
  * Tablo
  * Form
- * 
+ ----------------------
+ HTML -> HEAD (title ZORUNLU, meta, style, script, noscript, link, base) -> BODY
